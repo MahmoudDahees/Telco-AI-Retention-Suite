@@ -217,7 +217,7 @@ streamlit run app.py
 
 **Mahmoud Dahees**
 * **GitHub:** [@MahmoudDahees](https://github.com/MahmoudDahees)
-* **LinkedIn:** [Mahmoud Dahees](https://www.linkedin.com/in/mahmouddahees)
+* **LinkedIn:** [Mahmoud Dahees]([https://www.linkedin.com/in/mahmouddahees](https://www.linkedin.com/in/mahmoud-dahees-7b86511b2/?isSelfProfile=true))
 
 ---
 
