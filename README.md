@@ -18,10 +18,6 @@
 
 ---
 
-<!-- 
-💡 ملاحظة: يمكنك وضع ملف GIF التوضيحي هنا بعد تسجيل الشاشة 
-ضع الصورة أو الـ GIF في مجلد assets/ واستبدل الرابط أدناه
--->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MahmoudDahees/Telco-AI-Retention-Suite/main/assets/demo.gif" alt="Platform Demo" width="85%" onerror="this.style.display='none'"/>
 </div>
