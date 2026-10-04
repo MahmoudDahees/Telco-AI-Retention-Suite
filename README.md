@@ -26,6 +26,9 @@
   <img src="https://raw.githubusercontent.com/MahmoudDahees/Telco-AI-Retention-Suite/main/assets/demo.gif" alt="Platform Demo" width="85%" onerror="this.style.display='none'"/>
 </div>
 
+<div align="center">
+  <img src="assets/demo.gif" alt="Project Demo" width="90%"/>
+</div>
 ---
 
 ## 📌 Table of Contents
